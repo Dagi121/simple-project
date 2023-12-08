@@ -1,0 +1,12 @@
+.about{
+    margin: 90px;
+    padding: 100px ;
+    width: 50%;
+    height: 200px;
+    background-color: white;
+    box-shadow: 0 8px 16px 0px rgba(0, 0, 0, 0.6);
+}
+.box{
+    margin-left: 100px;
+    padding: 80px;
+}

@@ -1,0 +1,58 @@
+.imgcontact{
+    width: 90px;
+    height: 140px;
+    border-radius: 60px;
+    float: left;
+    
+    padding: 10px;
+    box-shadow: 0 8px 16px 0px rgba(3,5,23 0.6);
+}
+.self{
+    width: 32%;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: absolute;
+    background-color: #030517;
+    box-shadow: 0 4px 6px 0px rgba(0, 0, 0, 0.9);
+    color: white;
+    border-radius: 5px;
+}
+.natty{
+    width: 97px;
+    height: 100px;
+    background-color: #e36d24;
+    position: static;
+    margin-top: 0px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 130px;
+    border-top-left-radius: 120px;
+    padding: 2px;
+    display: flex;
+    float: left;
+    color: white;
+}
+.dagim{
+    padding: 20px;
+    margin-left: 10px;
+    display: block;
+    text-align: center;
+}
+.hr{
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    text-indent: 25px;
+}
+.footer{
+    text-align: center;
+    font-size: small;
+}
+.back{
+    width: 100%;
+    height: 400px;
+    background-color: #09214d;
+    margin: 0px;
+    padding: 0px;
+}

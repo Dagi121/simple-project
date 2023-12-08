@@ -1,0 +1,135 @@
+.first-web{
+    display: flex;
+    padding: 100px;
+}
+.second-web:hover {
+    border: 10px solid #2676ff;
+}
+.second-web:hover p{
+    display: block;
+    border: 10px solid #2676ff;
+}
+.three-web:hover{
+    border: 10px solid #fc8c03;
+}
+.three-web:hover p{
+    display: block;
+    border: 10px solid #fc8c03;
+}
+.fourth-web:hover{
+    border: 10px solid #024fde;
+}
+.fourth-web:hover p{
+    display: block;
+    border: 10px solid #024fde;
+}
+.fifth-web:hover{
+    border: 10px solid #b3ad09;
+}
+.fifth-web:hover p{
+    display: block;
+    border: 10px solid #b3ad09;
+}
+.web{
+    display: flex;
+    position: hidden;
+    background-color:#0d1030;
+    color: white;
+    width: 15%;
+    height: 200px;
+    padding: 20px;
+    margin: 70px 20px 0px 80px;
+    overflow: hidden;
+    box-shadow: 0 8px 16px 0px rgba(0, 0, 0, 0.9);
+    border-top-left-radius: 40px;
+}
+p{
+    display: none;
+    margin: 20px;
+    border-radius: 30px;
+    padding: 30px;
+    z-index: 1;
+}
+.imgservice1{
+    width: 40px;
+    height: 40px;
+}
+.imgservice2{
+    width: 40px;
+    height: 40px;
+}
+.imgservice3{
+    width: 40px;
+    height: 40px;
+}
+.imgservice4{
+    width: 40px;
+    height: 40px;
+}
+.second-web{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    background-color: #2676ff;
+    border-left: 50px;
+    margin-top: 70px;
+    margin-left: 20px;
+    position: absolute;
+    overflow: hidden;
+    border-top-left-radius: 150px;
+    box-shadow: 0 8px 16px 0px rgba(0, 0, 0 0.22);
+}
+.three-web{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    background-color: #fc8c03;
+    border-left: 50px;
+    margin-top: 70px;
+    margin-left: 20px;
+    position: absolute;
+    overflow: hidden;
+    border-top-left-radius: 150px;
+    box-shadow: 0 8px 16px 0px rgba(0, 0, 0 0.22);
+}
+.fourth-web{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    background-color: #024fde;
+    border-left: 50px;
+    margin-top: 70px;
+    margin-left: 20px;
+    position: absolute;
+    overflow: hidden;
+    border-top-left-radius: 150px;
+    box-shadow: 0 8px 16px 0px rgba(0, 0, 0 0.22);
+}
+.fifth-web{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    background-color: #b3ad09;
+    border-left: 50px;
+    margin-top: 70px;
+    margin-left: 20px;
+    position: absolute;
+    overflow: hidden;
+    border-top-left-radius: 150px;
+    box-shadow: 0 8px 16px 0px rgba(0, 0, 0 0.22);
+}
+p{
+    display: none;
+}
+.art1{
+    color: #2676ff;
+}
+.art2{
+    color: #fc8c03;
+}
+.art3{
+    color: #024fde;
+}
+.art4{
+    color: #b3ad09;
+}
